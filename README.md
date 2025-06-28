@@ -2,7 +2,7 @@
  <img src="https://i.ibb.co/PmS7gb0/js.gif" align="center" style="width:70rem; border-radius:10px;" /> 
 </div>
 
-# <div align="center">👋 Hi, I'm **Saimun Hasan**, A MERN Stack Developer 👨‍💻</div>
+# <div align="">👋 Hi, I'm **Saimun Hasan**, A Mern Stack Developer 👨‍💻</div>
 - 🔥 Learning **MERN Stack development** at **Creative IT Institute** with my mentor [<u>Taufik Islam</u>](https://github.com/taufik69).
 - ⚛️ Building **frontend projects** with **React**, **Redux**, and **Tailwind CSS v4**.
 - 💡 Exploring **full-stack development** and backend technologies like **Node.js** and **Express.js**.
